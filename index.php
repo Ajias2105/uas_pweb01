@@ -182,10 +182,10 @@
 								<a href="https://www.instagram.com/ajias21/?igsh=MXV0MzY5YW90cXVweQ%3D%3D" class="footer__social">
 									<img src="img/ig.png" alt="footer img" class="footer__img img">
 								</a>
-								<a href="https://github.com/Sulton712" class="footer__social">
+								<a href="https://github.com/Ajias2105" class="footer__social">
 									<img src="img/gth.png" alt="footer img" class="footer__img img">
 								</a>
-								<a href="https://maps.app.goo.gl/brpmd6KL7Jo56qVi9" class="footer__social">
+								<a href="https://maps.app.goo.gl/YQnk3pMk1oRP8bN26" class="footer__social">
 									<img src="img/almt.png" alt="footer img" class="footer__img img">
 								</a>
 							</div>
